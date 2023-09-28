@@ -5,3 +5,6 @@
 - [Docker basics](./03_docker_basics_en.md)
 - [Gradio intro](./04_gradio_intro.md)
 
+Coding examples on the theoretical lecture
+- [Keras FC-DNN, classification](./05-Keras-MNIST-MLP-en.ipynb)
+- [Keras FC-DNN, regression](./06-Keras-California-Housing-Regression-en.ipynb)
