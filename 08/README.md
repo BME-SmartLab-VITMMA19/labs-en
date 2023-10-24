@@ -1,4 +1,4 @@
-# Deep Learning, 6th week
+# Deep Learning, 8th week
 
 - [Classification (you will run this together on the practice)](./01_Classification.ipynb)
 - [Regression - (you will run the first part together on the practice)](./02_task_Regression.ipynb)
