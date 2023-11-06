@@ -6,3 +6,4 @@ Official repository of the laboratory work of BME VITMMA19 - Deep learning class
 - [6th week lab (Oct 10)](./06)
 - [8th week lab (Oct 24)](./08)
 - [8th week lecture (Oct 26)](./08_pres)
+- [10th week lab (Nov 7)](./10)
